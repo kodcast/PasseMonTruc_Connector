@@ -4,7 +4,7 @@
 
 ### 📌 Description
 
-**DjHeros Connector** est un plugin pour Nicotine+ qui permet de rechercher et télécharger automatiquement des fichiers audio en fonction d'une liste de critères définis. Il utilise le service [Passe Mon Truc](https://passemontruc.kodcast.com)  pour faciliter la récupération de morceaux.
+**PasseMonTruc Connector** est un plugin pour Nicotine+ qui permet de rechercher et télécharger automatiquement des fichiers audio en fonction d'une liste de critères définis. Il utilise le service [Passe Mon Truc](https://passemontruc.kodcast.com)  pour faciliter la récupération de morceaux.
 
 ### 🚀 Fonctionnalités
 
@@ -62,7 +62,7 @@ Distribué sous licence **GNU General Public License v3.0**.
 
 ### 📌 Description
 
-**DjHeros Connector** is a plugin for Nicotine+ that allows you to automatically search and download audio files based on predefined criteria. It use [Passe Mon Truc](https://passemontruc.kodcast.com) service to simplify track retrieval.
+**PasseMonTruc Connector** is a plugin for Nicotine+ that allows you to automatically search and download audio files based on predefined criteria. It use [Passe Mon Truc](https://passemontruc.kodcast.com) service to simplify track retrieval.
 
 ### 🚀 Features
 
