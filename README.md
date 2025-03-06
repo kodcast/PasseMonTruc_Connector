@@ -37,7 +37,7 @@
 
 2. Copier le plugin dans le dossier des plugins de Nicotine+ : `%APPDATA%/nicotine/plugins/`
 
-3. Vérifier la configuration du plugin (URL JSON, filtres audio)
+3. Vérifier la configuration du plugin (URL, filtres audio)
 
 4. Lancer Nicotine+ et activer le plugin
 
@@ -50,7 +50,7 @@
 
 ### 🤝 Contribution
 
-Les contributions sont les bienvenues ! Vous pouvez signaler un bug, proposer une amélioration ou envoyer une pull request sur **DjHeros Connector**.
+Les contributions sont les bienvenues ! Vous pouvez signaler un bug, proposer une amélioration ou envoyer une pull request sur **PasseMonTruc Connector**.
 
 ### 📜 Licence
 
@@ -95,7 +95,7 @@ Distribué sous licence **GNU General Public License v3.0**.
 
 2. Copy the plugin to Nicotine+'s plugin directory: `%APPDATA%/nicotine/plugins/`
 
-3. Check the plugin configuration (JSON URL, audio filters)
+3. Check the plugin configuration (URL, audio filters)
 
 4. Launch Nicotine+ and enable the plugin
 
@@ -108,7 +108,7 @@ Distribué sous licence **GNU General Public License v3.0**.
 
 ### 🤝 Contribution
 
-Contributions are welcome! Feel free to report an issue, suggest an improvement, or submit a pull request on **DjHeros Connector**.
+Contributions are welcome! Feel free to report an issue, suggest an improvement, or submit a pull request on **PasseMonTruc Connector**.
 
 ### 📜 License
 
